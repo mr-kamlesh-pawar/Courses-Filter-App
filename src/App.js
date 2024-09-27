@@ -24,7 +24,7 @@ function App() {
 
     }
      catch (error) {
-      toast.error("Api me kuchh problem hai");
+      toast.error("Api me kuchh problem hai bhai");
    
     }
 
